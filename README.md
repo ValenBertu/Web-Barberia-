@@ -98,8 +98,4 @@ This demo includes a `noindex, nofollow` directive because it represents a ficti
 
 **No es una barbería real.** La información comercial es ficticia. La cuenta Setmore corresponde a pruebas y no debe utilizarse para turnos de clientes reales. Las imágenes y fuentes externas necesitan conexión a internet.
 
-Para subirla a GitHub, descomprimí el ZIP y colocá **los archivos directamente en la raíz del repositorio que ya tienen**. En **Settings → Pages** elegí **Deploy from a branch**, la rama correspondiente y **`/(root)`**. No hace falta ejecutar Node ni compilar nada.
-
-Cuando tengan una barbería cliente, hay que reemplazar datos de prueba, imágenes, contacto y cuenta de Setmore por información autorizada. No se deben subir credenciales.
-
 *VYB · Website concept and development · 2026*
